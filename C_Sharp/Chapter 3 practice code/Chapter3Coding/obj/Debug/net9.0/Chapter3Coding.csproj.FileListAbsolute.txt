@@ -1,0 +1,14 @@
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\bin\Debug\net9.0\Chapter3Coding.exe
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\bin\Debug\net9.0\Chapter3Coding.deps.json
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\bin\Debug\net9.0\Chapter3Coding.runtimeconfig.json
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\bin\Debug\net9.0\Chapter3Coding.dll
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\bin\Debug\net9.0\Chapter3Coding.pdb
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.AssemblyInfoInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.AssemblyInfo.cs
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.csproj.CoreCompileInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.dll
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\refint\Chapter3Coding.dll
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.pdb
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\Chapter3Coding.genruntimeconfig.cache
+C:\Users\James Hill\Desktop\C Sharp\Chapter 3 practice code\Chapter3Coding\obj\Debug\net9.0\ref\Chapter3Coding.dll

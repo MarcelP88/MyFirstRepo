@@ -1,0 +1,14 @@
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\bin\Debug\net9.0\practice c#.exe
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\bin\Debug\net9.0\practice c#.deps.json
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\bin\Debug\net9.0\practice c#.runtimeconfig.json
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\bin\Debug\net9.0\practice c#.dll
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\bin\Debug\net9.0\practice c#.pdb
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.AssemblyInfoInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.AssemblyInfo.cs
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.csproj.CoreCompileInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.dll
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\refint\practice c#.dll
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.pdb
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\practice c#.genruntimeconfig.cache
+C:\Users\James Hill\Desktop\C Sharp\practice c#\practice c#\obj\Debug\net9.0\ref\practice c#.dll

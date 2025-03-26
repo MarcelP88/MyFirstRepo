@@ -1,0 +1,14 @@
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\bin\Debug\net9.0\Exception Handling.exe
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\bin\Debug\net9.0\Exception Handling.deps.json
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\bin\Debug\net9.0\Exception Handling.runtimeconfig.json
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\bin\Debug\net9.0\Exception Handling.dll
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\bin\Debug\net9.0\Exception Handling.pdb
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.AssemblyInfoInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.AssemblyInfo.cs
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.dll
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\refint\Exception Handling.dll
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.pdb
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\Exception Handling.genruntimeconfig.cache
+C:\Users\James Hill\Desktop\C Sharp\exception handling\Exception Handling\obj\Debug\net9.0\ref\Exception Handling.dll
