@@ -1,0 +1,14 @@
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\bin\Debug\net9.0\interfaceproj.exe
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\bin\Debug\net9.0\interfaceproj.deps.json
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\bin\Debug\net9.0\interfaceproj.runtimeconfig.json
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\bin\Debug\net9.0\interfaceproj.dll
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\bin\Debug\net9.0\interfaceproj.pdb
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.AssemblyInfoInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.AssemblyInfo.cs
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.csproj.CoreCompileInputs.cache
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.dll
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\refint\interfaceproj.dll
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.pdb
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\interfaceproj.genruntimeconfig.cache
+C:\Users\James Hill\Desktop\C Sharp\Interfaceproject\interfaceproj\obj\Debug\net9.0\ref\interfaceproj.dll
